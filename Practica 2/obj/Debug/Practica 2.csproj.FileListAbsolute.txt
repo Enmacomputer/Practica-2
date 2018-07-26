@@ -1,0 +1,7 @@
+c:\users\enman\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.exe.config
+c:\users\enman\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.exe
+c:\users\enman\source\repos\Practica 2\Practica 2\bin\Debug\Practica 2.pdb
+c:\users\enman\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.csprojAssemblyReference.cache
+c:\users\enman\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.csproj.CoreCompileInputs.cache
+c:\users\enman\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.exe
+c:\users\enman\source\repos\Practica 2\Practica 2\obj\Debug\Practica 2.pdb
